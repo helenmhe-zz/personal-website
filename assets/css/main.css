@@ -974,7 +974,7 @@ blockquote p {
           color: #000000; }
 
 .expertise {
-  background: url(../images/backgrounds/bg-expertise.jpg) no-repeat center center; }
+  background: url(../images/backgrounds/bg-expertise.jpg) no-repeat fixed center; }
   .expertise .section-heading h1, .expertise .section-heading p {
     color: #ffffff; }
   .expertise .section-heading::after {
@@ -1040,7 +1040,7 @@ blockquote p {
   .expertise .expertise-description {
     margin-bottom: 0; } }
 .video-player {
-  background: url(../images/backgrounds/bg-video.jpg) no-repeat center bottom;
+  background: url(../images/backgrounds/bg-video.jpg) no-repeat fixed center;
   background-size: cover;
   color: #ffffff;
   text-transform: uppercase; }
